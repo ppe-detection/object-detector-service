@@ -2,7 +2,7 @@ from fastapi import FastAPI, UploadFile, File, Response
 from fastapi.middleware.cors import CORSMiddleware
 import cv2, numpy as np
 
-app = FastAPI(title="object-detector-service", version=settings.APP_VERSION)
+app = FastAPI(title="object-detection-model", version=settings.APP_VERSION)
 
 # CORS for team tools / web UIs
 app.add_middleware(
