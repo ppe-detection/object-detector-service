@@ -1,4 +1,4 @@
-name: Publish object-detector-service Docker Image (GHCR)
+name: Publish object-detection-model Docker Image (GHCR)
 
 on:
   push:
