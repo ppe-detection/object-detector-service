@@ -1,2 +1,2 @@
 # object-detector-service
-runs the object detection model
+this service will only run the object detection service (YOLOv8n, YOLOv8s or YOLOv8m) 
