@@ -3,7 +3,7 @@ Responsible for performing object detection on incoming image data and serves as
 
 ## This service:
 
-* Receives image frames (from the stream-ingest-service) via REST API.
+* Receives image frames 
 
 * Uses OpenCV to preprocess images.
 
